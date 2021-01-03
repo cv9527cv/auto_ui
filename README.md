@@ -1,2 +1,2 @@
 # auto_ui
-selenium+python+allure+pymsql+
+selenium+python+allure+pymsql
