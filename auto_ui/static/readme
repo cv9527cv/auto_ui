@@ -1,0 +1,26 @@
+categories.jsonpe配置：
+
+默认情况下，有两类缺陷：
+Product defects 产品缺陷（测试结果：failed）
+Test defects 测试缺陷（测试结果：error/broken）
+我们是可以创建自定义缺陷分类的，将 categories.json 件添加到--alluredir后带的目录即可
+
+name：分类名称 name是可以写中文的哦！
+matchedStatuses：测试用例的运行状态，默认["failed", "broken", "passed", "skipped", "unknown"]
+messageRegex：测试用例运行的错误信息，默认是 .* ，是通过正则去匹配的哦！
+traceRegex：测试用例运行的错误堆栈信息，默认是  .*  ，也是通过正则去匹配的哦！
+------------------------------------------------------------------------------------------------
+environment.properties：
+
+放置位置同categories.jsonpe
+
+Browser=Chrome
+Browser.Version=81.0.4044.92
+Stand=Production
+ApiUrl=127.0.0.1/login
+python.Version=3.7.2
+
+不可以带中文
+
+
+
