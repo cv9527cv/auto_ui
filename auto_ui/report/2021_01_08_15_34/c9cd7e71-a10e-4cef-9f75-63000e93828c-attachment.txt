@@ -1,2 +1,0 @@
-INFO     auto_ui.scripts.test_indexpage:test_indexpage.py:53 False
-INFO     auto_ui.scripts.test_indexpage:test_indexpage.py:53 False

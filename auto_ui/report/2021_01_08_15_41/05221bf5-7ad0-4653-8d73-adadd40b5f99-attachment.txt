@@ -1,1 +1,0 @@
-INFO     auto_ui.scripts.test_loginpage:test_loginpage.py:55 True

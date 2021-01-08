@@ -1,1 +1,0 @@
-INFO     auto_ui.scripts.test_indexpage:test_indexpage.py:30 True

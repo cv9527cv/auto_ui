@@ -1,7 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed857a48-0725-47d1-bc5b-ddc12828f500" name="Default Changelist" comment="" />
+    <list default="true" id="ed857a48-0725-47d1-bc5b-ddc12828f500" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/0198fdaa-cc61-42cf-aae7-b0a4320150ac-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/039010d5-2d8a-4f23-85d7-fb17a4527c12-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/05bead49-ada0-4764-8219-4c3827044c7d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/05f2c2e2-312a-46ee-97a4-3950da08e5b1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/0c251538-5481-4c62-926f-8eab31778751-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/1279894a-05dc-4430-91fd-0f7800537ce5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/2c20210b-875a-49af-966f-9fe25e24c2d3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/32aef19b-7989-47a9-8345-34683ecfef69-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/3664c619-925a-4e61-acbf-2f706c2e7c67-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/3a9fd54b-ced4-4e2a-8d25-824e92784ba4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/3d66f0eb-75ec-4b19-ab16-640588037d0a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/3ee6cf44-c139-4b83-b46d-d597f542a60c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/4da2d43e-0718-49aa-b333-85df0185479e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/4e4f03ef-7bbd-4537-aa9e-c8001b4e2361-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/52393496-ae3c-4b48-9d29-5fd5ccc1188c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/523f006a-92cd-4833-a0ce-a92b9122c04a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/5400a74b-d972-430a-9599-90968d9d9fba-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/5691c9be-fb25-4433-9298-1817bff771a6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/56d32b74-734c-47c2-a3e5-5f797ac9c46e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/5a922245-bdcb-4b06-8c2c-b70bcd06bf64-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/5e503195-e127-4b1d-995f-1410275a88d8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/61a7dc4d-478a-4fbc-8da9-bd9304d113f7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/68e720e5-6dc6-4ce3-beec-e939361e9384-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/69d9b5e3-d150-4e7f-bb74-8b6d385d2358-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/6c0419de-bb73-4650-afa8-4c27272f58c7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/76d7300e-1c27-4cfc-ac58-bffc8b26937a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/7719ab89-b1dd-462c-9112-0694e321f654-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/7836a181-f61c-4260-9059-dc2adbc63352-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/7b0da3b0-02a2-4b46-a83c-a0abe17fd2a3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/86573be0-fd69-468f-a74d-f1a13ac81c31-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/893cc019-7cc0-4f86-9424-85c7726cb694-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/a87eeabf-2c91-4e45-b936-ee560289df69-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/b5fe8788-bc93-49ed-b65a-f9e055e499eb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/c3155a62-4683-4e2a-9df7-69b5d2b1ee2f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/c42f923e-f627-40a5-b3cc-bde71b0dbcda-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/c8ddb4ac-8edc-45b6-a6eb-3001330d6c8e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/c9d591c0-0ea8-4f13-974c-dda01e3763f3-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/d45555e9-ec49-492d-b9c1-35880bc59976-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/d8ecee2b-16cf-4690-af6c-27768ba0e082-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/dfa53d71-ea72-47f3-b548-4d0215b53064-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/e551fea8-3399-4669-b161-a1d3f870835f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_32/fd75b8e4-ba5e-444d-84c4-3af0239a93c1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/069ee850-5eff-4829-9fc3-1ab9a6098ff6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/11ded559-ae2a-4e61-8ed8-b5fd4945dbb5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/1713dbb7-7f89-4e40-8b83-b15dbd438daf-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/1d658073-5842-4ae5-8ea5-6e32dec90693-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/21942927-3cc1-4728-84dd-04d61769c8af-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/26c6deb8-8fdd-4b40-a82b-10cad1c484bf-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/274a11c0-3c3b-4f17-b984-2d4c4df3c94a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/317304dc-d55a-4a3b-a8d1-b8eaa164df9b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/31e71ce6-cbcd-45bd-81e1-179d8f7ee1e9-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/3a893fd7-5811-4d8f-8648-b8f573d169ea-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/3d1061c6-6b6b-4078-950b-43b7a621221f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/3d4e2eb1-ebf1-4864-bf65-93a9b29e495e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/3eb63f5b-9197-416e-8784-9ab70ca3644f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/44eb0248-6def-409b-ac74-ef11ad961b8e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/5205fed7-893b-4826-aab7-e6aa05b40abd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/558b0711-f24c-4461-9e9a-306375855d4d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/57ea2a77-280d-4e84-be92-5215e910d2c5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/58c99f44-e53a-4d5f-bd6c-3c4e68ac6e35-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/5f98a775-83a5-4561-882f-e8c139c38c16-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/6072ca3f-bd33-45e0-9ec8-6b23986a8b70-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/6383cbe9-0d61-4bbb-acb1-e44af625cae6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/713b7095-6bdb-444c-8bee-85a05cf2dfd1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/7208b96e-51ee-4a9f-8344-1671e20c6e6f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/7500d076-23fc-4e47-a7eb-f34e49566b9e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/7c01df8d-3ba1-4055-8bcb-e70ae85fdc04-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/7e057867-c277-4071-b436-c23e04248e02-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/83c553e3-e4cf-4440-a253-88b0ad883cdf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/87f6fed6-2035-4fc5-b92d-49625172f9a8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/88bc26f8-0926-4218-8344-707ffb233dfd-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/953948b0-1979-4aa0-9d5a-a6d1c0575fa2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/9cd5694b-44ba-4478-b36d-097dae96ae5b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/9cdfef96-505b-4877-ad64-8e044ec67a7b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/a0ddadfc-99f3-4e36-8408-e0cd114e83da-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/b7ba9f2a-0137-4d20-ba7e-215b20560334-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/bf964741-dc6a-4b80-8e1b-47916eef6314-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/c01adbfc-42b2-4812-bc5f-7eb9ded2d0eb-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/c07ac0a5-8f15-4a8d-b25e-19ed76576e8a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/c2df4578-8f99-4915-bdf9-97aeb02f8a14-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/c9cd7e71-a10e-4cef-9f75-63000e93828c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/d036eecb-ce77-4248-b820-4f8a2d0eb953-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/e19e4a6f-427d-4190-99a7-1a8864c99d38-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/ed3ff52b-a43b-44f6-bbad-bdaf4a45a10a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/f2c9b5cb-61f5-4acd-9cf9-eaad9872ea2b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/f4d40364-b508-49a7-901d-5ec3ced65269-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/f5055737-067b-40f1-962d-6ba8fd4d2548-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/f6628008-f070-4518-bc34-b6a910c85f45-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_34/fad105d0-6811-45b2-b548-764bdbf165e7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/009f25eb-1d46-46ab-b0a0-da51afa0e41f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/05221bf5-7ad0-4653-8d73-adadd40b5f99-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/0f3904b5-c805-4cdb-896e-c81dc9e47a5e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/127907fe-8b17-4251-8257-562de84d62a9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/1363fd93-00dd-4aaf-a650-35e1c4b070cf-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/190e90ff-61de-4e49-bb2c-5451982facc4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/20d5a317-dfa5-47f1-90b7-306029e4f5a1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/221948ca-67d3-4931-93e9-c53938d4555e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/24c3f586-d817-49ee-bb1d-08fedc89481d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/24dac5b3-d2bd-4b1b-ae16-c9cc61e094ac-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/2b26a3d1-55f6-4aa4-8b50-f81a9001513e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/2f50fb1c-6227-4182-9e80-586b22f76267-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/2f8ecf11-f984-493d-a9f3-d6f138e4d51c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/3b8b1f89-f181-4395-919d-852b4acb6339-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/4013ad44-bb90-4934-8c70-5c9c5c7cd223-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/46de06df-043a-470f-9ae8-549f3de78514-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/51530068-5f11-4fab-92ae-eaddd00f5354-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/5450e167-694f-4855-a3fa-2ee87aa885d5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/56b006f1-a034-4cbf-8f41-cb94c6ba78f4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/583418f7-a745-4cb4-aa19-5a833e6c6ae1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/60dbd708-864a-4a29-9c0e-810bdd10b7c5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/624c78eb-c823-47ec-9db5-e9c80b4c290c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/63d3ff5e-01af-4e90-b70d-25c51ab60e8c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/6482b4e7-985c-4608-b949-d62bbfcb0d59-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/64eaa30f-24b6-4162-ac80-70bc2c4ebb2f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/67066a55-4e7a-49e5-8da9-d4d3b1b74367-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/75f09f25-e044-4d29-868a-8c5e6175ce55-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/762249fe-6c36-4824-b7bf-b1ec1e1696d5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/7960778d-cb4b-4de2-bb27-02a77f109132-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/79b0ce34-38e1-4ddd-98a0-0482ba3147f2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/7ab8e04a-c65f-4697-9222-d99e837049b6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/7d367916-141a-4d4a-bde1-45506f84d6b7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/82f70797-afc2-496c-99f5-88ebb550fcf0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/9f314a75-4dab-4b62-a397-dbfa6dd71b63-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/af95fc06-dca1-4ca1-8b25-774e3a4a5d8c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/b2a164a3-33b8-4663-84c8-fe226309f0fa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/b91d8c3e-518d-4819-9d05-5d58b3528b5a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/b96c09e8-0ced-4b46-8080-3491bbf437ac-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/bab5557c-6edc-43ea-bbce-51a4ede276c9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/bb5e0950-9f9c-4299-a8ad-a89742ec674e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/d62b636f-cf81-4f5e-b1e5-7de226491e45-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/e17fe74b-9c39-474d-abfb-7986549f7c00-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/e767afc6-3ae5-48a3-870f-668898cff084-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/ea763ba4-1d28-4450-ba29-fba64870e3f1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/ed495caa-d982-47be-94a1-fc4bdfe172c2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/efa8c3f9-48a4-4b0a-9619-3b5d8e2be996-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2021_01_08_15_41/f8d5680b-bbbe-49c3-9a4a-130467f9f01c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +156,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1maNxeVPn9dU8pwdNzgrOycJJGu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -151,15 +297,27 @@
       <workItem from="1609747618791" duration="636000" />
       <workItem from="1609918723332" duration="14847000" />
       <workItem from="1610074318504" duration="11494000" />
+      <workItem from="1610093680922" duration="1946000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/auto_ui$test_baseinfopage.coverage" NAME="test_baseinfopage Coverage Results" MODIFIED="1610086441909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
-    <SUITE FILE_PATH="coverage/auto_ui$start.coverage" NAME="start Coverage Results" MODIFIED="1610091676140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_ui$start.coverage" NAME="start Coverage Results" MODIFIED="1610093685264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/auto_ui$test_email.coverage" NAME="test_email Coverage Results" MODIFIED="1610004882607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/auto_ui$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1610091215544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
