@@ -14,8 +14,9 @@ class Config:
     """
     now_time = time.strftime("%Y_%m_%d_%H_%M")
 
-    # allure 报告的地址
-    report_dir = os.path.join(BASE_DIR, 'report', now_time)
+    # allure 报告的地址 windows下运行使用一下配置， 如果要集成jenkins， report_dir必须写死
+    # report_dir = os.path.join(BASE_DIR, 'report', now_time)
+    report_dir = os.path.join(BASE_DIR, 'report')
 
     # 配置浏览器驱动类型(chrome/firefox/chrome-headless/firefox-headless)。
     # driver_type = "chrome"

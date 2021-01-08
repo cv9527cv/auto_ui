@@ -1,0 +1,2 @@
+INFO     auto_ui.scripts.test_baseinfopage:test_baseinfopage.py:28 True
+INFO     auto_ui.scripts.test_baseinfopage:test_baseinfopage.py:30 True

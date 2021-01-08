@@ -1,7 +1,6 @@
 from pageobj.page import IndexPage
 from settings import Browser
 import pytest
-import time
 import logging
 
 logger = logging.getLogger(__name__)
@@ -40,14 +39,13 @@ class TestIndexPage():
         self.page.search_indexa.click()
         logger.info(pytest.assume(Browser.dr.current_url == 'http://10.1.25.147:9527/#/homepage/index'))
 
-    # @pytest.mark.skip(msg='nibudong')
+    # @pytest.mark.skipif(sys.platform != 'win32', reason="does not run on windows")
     # @pytest.mark.flaky(reruns=2)
     def test_page_full_screen(self):
         Browser.dr.get(self.base_url)
         size1 = Browser.dr.get_window_size()
         self.page.search_dropdownboxi.click()
         self.page.search_full_screendiv.click()
-        time.sleep(2)
         size2 = Browser.dr.get_window_size()
         logger.info(pytest.assume(size1 != size2))
 
