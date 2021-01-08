@@ -1,0 +1,27 @@
+2021-01-08-14-29-26 - test_loginpage.py - INFO:auto_ui.scripts.test_loginpage:False
+INFO:auto_ui.scripts.test_loginpage:True
+INFO:auto_ui.scripts.test_indexpage:True
+INFO:auto_ui.scripts.test_indexpage:True
+INFO:auto_ui.scripts.test_indexpage:True
+INFO:auto_ui.scripts.test_indexpage:True
+INFO:auto_ui.scripts.test_indexpage:False
+INFO:auto_ui.scripts.test_indexpage:False
+INFO:auto_ui.scripts.test_indexpage:True
+INFO:auto_ui.scripts.test_indexpage:True
+INFO:auto_ui.scripts.test_baseinfopage:True
+INFO:auto_ui.scripts.test_baseinfopage:True
+INFO:auto_ui.scripts.test_baseinfopage:True
+INFO:auto_ui.scripts.test_managecroppage:True
+INFO:auto_ui.scripts.test_managecroppage:True
+INFO:auto_ui.scripts.test_managecroppage:True
+INFO:auto_ui.scripts.test_managecroppage:True
+8 - test_indexpage.py - test_indexpage - test_page_full_screen - 52 - INFO - False
+2021-01-08-14-29-50 - test_indexpage.py - test_indexpage - test_logout - 60 - INFO - True
+2021-01-08-14-29-52 - test_indexpage.py - test_indexpage - test_logout - 60 - INFO - True
+2021-01-08-14-29-53 - test_baseinfopage.py - test_baseinfopage - test_userinfoli - 22 - INFO - True
+2021-01-08-14-29-55 - test_baseinfopage.py - test_baseinfopage - test_cropinfoli - 28 - INFO - True
+2021-01-08-14-29-55 - test_baseinfopage.py - test_baseinfopage - test_cropinfoli - 30 - INFO - True
+2021-01-08-14-30-00 - test_managecroppage.py - test_managecroppage - test_001_add_corp - 38 - INFO - True
+2021-01-08-14-30-07 - test_managecroppage.py - test_managecroppage - test_002_edit_corp - 68 - INFO - True
+2021-01-08-14-30-10 - test_managecroppage.py - test_managecroppage - test_03_query_corp - 84 - INFO - True
+2021-01-08-14-30-15 - test_managecroppage.py - test_managecroppage - test_004_del_corp - 97 - INFO - True

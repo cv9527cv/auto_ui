@@ -3,14 +3,16 @@ from settings import Browser, DB
 import time
 import pytest
 import allure
+import logging
 
+logger = logging.getLogger(__name__)
 
 @allure.epic('用户管理')
 @pytest.mark.run(order=4)
 class TestManageCorpPage():
 
     def setup_class(self):
-        self.base_url = 'http://192.168.18.149:9527/#/corpinfo/corp'
+        self.base_url = 'http://10.1.25.147:9527/#/corpinfo/corp'
         self.page = ManageCropPage(Browser.dr)
 
     # @pytest.mark.skip(msg='跳过')
@@ -33,7 +35,7 @@ class TestManageCorpPage():
         # 点击确认按钮
         self.page.search_confirmbut().click()
         # pytest.assume(self.page.search_promptdiv().text == '添加成功')
-        pytest.assume(self.page.search_promptdiv().text == '添加成功')
+        logger.info(pytest.assume(self.page.search_promptdiv().text == '添加成功'))
 
     @allure.story('编辑单位')
     @allure.title('默认输入[ssmtest3, 1234507231, 市局, 西湖]')
@@ -63,7 +65,7 @@ class TestManageCorpPage():
         address.send_keys('西湖')
         # 点击确认按钮
         self.page.search_confirmbut().click()
-        pytest.assume(self.page.search_promptdiv().text == '修改成功')
+        logger.info(pytest.assume(self.page.search_promptdiv().text == '修改成功'))
 
     @allure.story('查询单位')
     @allure.title('查询单位')
@@ -79,7 +81,7 @@ class TestManageCorpPage():
             sql = "select * from corp where code = '001';"
             count = dbcur.execute(sql)
         li_tr = self.page.query_corptr()
-        pytest.assume(len(li_tr) == count)
+        logger.info(pytest.assume(len(li_tr) == count))
 
     @allure.story('删除单位')
     @allure.title('删除单位')
@@ -90,8 +92,9 @@ class TestManageCorpPage():
         self.page.search_dropdowni().click()
         # 点击最后一条数据的删除按钮
         self.page.search_deletebtn().click()
+        time.sleep(2)
         self.page.confirm_delbtn().click()
-        pytest.assume(self.page.search_promptdiv().text == '删除成功')
+        logger.info(pytest.assume(self.page.search_promptdiv().text == '删除成功'))
 
 
 

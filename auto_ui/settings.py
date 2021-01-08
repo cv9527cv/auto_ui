@@ -23,14 +23,17 @@ class Config:
     # 存放 cookies的文件
     cookies_file = os.path.join(BASE_DIR, 'static', 'mycookies')
 
+    # 存放日志的路径
+    logger_file = os.path.join(BASE_DIR, 'log.txt')
+
 
 class DB(object):
     dic = {
-            'NAME': 'xxx',
-            'HOST': '192.168.18.149',
+            'NAME': 'evidencetrack',
+            'HOST': '10.1.25.147',
             'PORT': 3306,
-            'USER': 'xxx',
-            'PASSWORD': 'xxx'
+            'USER': 'root',
+            'PASSWORD': '12345'
         }
 
     def __init__(self, host=dic['HOST'], port=dic['PORT'], db=dic['NAME'], user=dic['USER'], passwd=dic['PASSWORD'], charset="utf8"):
