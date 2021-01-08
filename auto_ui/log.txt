@@ -1,4 +1,4 @@
-2021-01-08-16-14-48 - test_loginpage.py - INFO:auto_ui.scripts.test_loginpage:False
+2021-01-08-17-03-47 - test_loginpage.py - INFO:auto_ui.scripts.test_loginpage:False
 INFO:auto_ui.scripts.test_loginpage:True
 INFO:auto_ui.scripts.test_indexpage:True
 INFO:auto_ui.scripts.test_indexpage:True
@@ -15,13 +15,13 @@ INFO:auto_ui.scripts.test_managecroppage:True
 INFO:auto_ui.scripts.test_managecroppage:True
 INFO:auto_ui.scripts.test_managecroppage:True
 INFO:auto_ui.scripts.test_managecroppage:True
-4 - test_indexpage.py - test_indexpage - test_page_full_screen - 50 - INFO - False
-2021-01-08-16-15-16 - test_indexpage.py - test_indexpage - test_logout - 58 - INFO - True
-2021-01-08-16-15-18 - test_indexpage.py - test_indexpage - test_logout - 58 - INFO - True
-2021-01-08-16-15-19 - test_baseinfopage.py - test_baseinfopage - test_userinfoli - 22 - INFO - True
-2021-01-08-16-15-21 - test_baseinfopage.py - test_baseinfopage - test_cropinfoli - 28 - INFO - True
-2021-01-08-16-15-22 - test_baseinfopage.py - test_baseinfopage - test_cropinfoli - 30 - INFO - True
-2021-01-08-16-15-27 - test_managecroppage.py - test_managecroppage - test_001_add_corp - 38 - INFO - True
-2021-01-08-16-15-34 - test_managecroppage.py - test_managecroppage - test_002_edit_corp - 68 - INFO - True
-2021-01-08-16-15-36 - test_managecroppage.py - test_managecroppage - test_03_query_corp - 84 - INFO - True
-2021-01-08-16-15-42 - test_managecroppage.py - test_managecroppage - test_004_del_corp - 97 - INFO - True
+1 - test_indexpage.py - test_indexpage - test_page_full_screen - 50 - INFO - False
+2021-01-08-17-04-14 - test_indexpage.py - test_indexpage - test_logout - 58 - INFO - True
+2021-01-08-17-04-15 - test_indexpage.py - test_indexpage - test_logout - 58 - INFO - True
+2021-01-08-17-04-16 - test_baseinfopage.py - test_baseinfopage - test_userinfoli - 22 - INFO - True
+2021-01-08-17-04-18 - test_baseinfopage.py - test_baseinfopage - test_cropinfoli - 28 - INFO - True
+2021-01-08-17-04-19 - test_baseinfopage.py - test_baseinfopage - test_cropinfoli - 30 - INFO - True
+2021-01-08-17-04-24 - test_managecroppage.py - test_managecroppage - test_001_add_corp - 38 - INFO - True
+2021-01-08-17-04-31 - test_managecroppage.py - test_managecroppage - test_002_edit_corp - 68 - INFO - True
+2021-01-08-17-04-34 - test_managecroppage.py - test_managecroppage - test_03_query_corp - 84 - INFO - True
+2021-01-08-17-04-39 - test_managecroppage.py - test_managecroppage - test_004_del_corp - 97 - INFO - True
